@@ -1,11 +1,3 @@
-//
-//  BaseController.swift
-//  MProduction
-//
-//  Created by Doyle Illusion on 8/31/17.
-//  Copyright © 2017 HBB Solutions. All rights reserved.
-//
-
 import Foundation
 import UIKit
 

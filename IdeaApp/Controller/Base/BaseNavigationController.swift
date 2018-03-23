@@ -1,11 +1,3 @@
-//
-//  BaseNavigationController.swift
-//  Yosing
-//
-//  Created by Thanh on 7/12/16.
-//  Copyright © 2016 Zyncas. All rights reserved.
-//
-
 import UIKit
 
 class BaseNavigationController: UINavigationController {
